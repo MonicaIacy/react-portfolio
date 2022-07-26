@@ -17,10 +17,10 @@ const data = [
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Projeto PicPro",
-    github: "https://github.com/MonicaIacy/Projeto-picpro",
-    demo: "https://monicaiacy.github.io/Projeto-picpro/"
+    image: IMG5,
+    title: "Website DINDIN",
+    github: "https://github.com/MonicaIacy/Dindin_GamaAcademy",
+    demo: "https://monicaiacy.github.io/Dindin_GamaAcademy/"
   },
   {
     id: 3,
@@ -38,10 +38,10 @@ const data = [
   },
   {
     id: 5,
-    image: IMG5,
-    title: "Jogo Helicóptero",
-    github: "https://github.com/MonicaIacy/Projeto-jogo-helicoptero",
-    demo: "https://monicaiacy.github.io/Projeto-jogo-helicoptero/"
+    image: IMG2,
+    title: "Projeto PicPro",
+    github: "https://github.com/MonicaIacy/Projeto-picpro",
+    demo: "https://monicaiacy.github.io/Projeto-picpro/"
   },
   {
     id: 6,
